@@ -1,4 +1,4 @@
-# EXCEL-PROJECT
+# VISUALIZATION IN EXCEL-PROJECT
 
 This project focuses on creating dashboards in Excel using grocery data from Blinkit. The dataset contains 8,424 entries and includes various fields: Item Fat Content, Item Identifier, Item Type, Outlet, Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item, Weight, Sales, and Rating.
 First, I cleaned the data by using the find and replace feature and checked for duplicates. I then developed dashboards to visualize key performance indicators (KPIs) for improved analysis.
